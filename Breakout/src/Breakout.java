@@ -1,9 +1,6 @@
-/* 
- * File: Breakout.java 
- * ------------------- 
- * This file will eventually implement the game of Breakout. 
- */ 
-
+/**
+ * Javadocs are so important and stuff. Wow. Javadocs.
+ */
 import java.awt.Color;
 import java.awt.event.MouseEvent;
 import java.util.Random;
